@@ -6,7 +6,7 @@ WordPress theme homepage assignment
 # Advanced WordPress Homepage Theme
 
 This is a custom WordPress homepage theme.  
-**Main files (important for submission):**
+**Main files:**
 - `index.php`
 - `home.php`
 - `header.php`
@@ -14,7 +14,7 @@ This is a custom WordPress homepage theme.
 - `functions.php`
 - `style.css`
 
-**Optional / Extra files (for visuals & functionality):**
+**Optional / Extra files:**
 - JS files (`js/` folder)
 - CSS files (`css/` folder)
 - Images (`images/` folder)
